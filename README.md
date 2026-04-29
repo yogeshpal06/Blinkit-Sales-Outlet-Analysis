@@ -47,10 +47,21 @@ interactive Power BI dashboard.
 7. Small format Supermarket Type1 stores deliver the best sales efficiency
 
 ## Dashboard Pages
-1. Overview — Project summary and key findings
-2. Sales Overview — Sales by item type, fat content and city tier
-3. Outlet Performance — Outlet type, size, age and tier analysis
-4. Product Intelligence — Visibility analysis, ratings and fat content split
+### 1. Overview — Project summary and key findings
+
+![Overview](blinkit_overview.png)
+
+### 2. Sales Overview — Sales by item type, fat content and city tier
+
+![Sales Analysis](blinkit_sales.png)
+
+### 3. Outlet Performance — Outlet type, size, age and tier analysis
+
+![Outlet Analysis](blinkit_outlet.png)
+
+### 4. Product Intelligence — Visibility analysis, ratings and fat content split
+
+![Product Analysis](blinkit_product.png)
 
 ## Author
 **Yogesh Kumar Pal**
